@@ -1,0 +1,5 @@
+1. instalar o nodejs com o comando: apt install nodejs
+2. copiar a pasta rede para o /opt com o comando: sudo cp -r rede /opt
+3. rodar o comando na pasta rede: sudo cp rede.desktop /home/NOME_DO_USUARIO/.local/share/applications
+4. colocar o rede.desktop na area de trabalho
+5. clicar com o botão direito no rede.desktop, clicar em permita iniciar

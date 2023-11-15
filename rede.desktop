@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=29BIB Rede
+Comment=Atalho para criar as pastas de rede
+Type=Application
+Terminal=false
+Path=/opt/rede
+Exec=node index.js
+Icon=/opt/rede/rede.png
+StartupNotify=true
+Categories=Development;IDE;
